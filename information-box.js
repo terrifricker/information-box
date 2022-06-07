@@ -1,0 +1,1 @@
+const outerContainer = document.querySelector("outer-container");
