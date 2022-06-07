@@ -1,1 +1,0 @@
-information-box.js
